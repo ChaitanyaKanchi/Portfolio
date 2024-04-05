@@ -1,0 +1,155 @@
+.sec1{
+    width: 50%;
+    margin-top: 5%;
+    color: white;
+    padding-bottom: 10%;
+    font-size: 20px;
+    margin-left: 5%;
+}
+.fwd{
+    color: rgb(23, 165, 222);
+}
+.bgimg{
+    background-color: rgb(37, 37, 90);
+    display: flex;
+    width: 100%;
+}
+.image{
+    width: 40%;
+    height: 30%;
+    padding-left: 10%;
+    margin-top: 5%;
+}
+.hire{
+    display: flex;
+    margin-top: 5%;
+}
+.hire-me{
+    background-color: rgb(23, 165, 222);
+    padding: 10px;
+    margin-right: 30px;
+    width: 20%;
+    color: rgb(37, 37, 90);
+    border-color: rgb(23, 165, 222);
+    border-radius: 10px;
+}
+.lets-talk{
+    padding: 10px;
+    margin-right: 10px;
+    width: 20%;
+    background-color: rgb(37, 37, 90);
+    color: rgb(23, 165, 222);
+    border-color: rgb(23, 165, 222);
+    border-radius: 10px;
+}
+.about{
+    text-align: center;
+    color: rgb(23, 165, 222);
+}
+.image1{
+    width: 18%;
+    border-radius: 50%;
+    margin-left: 41%;
+    margin-top: 5%;
+    border: 20px white;
+
+}
+.sech2{
+    color: white;
+    text-align: center;
+    margin-top: 3%;
+}
+.para1{
+    color: white;
+    font-size: 20px;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+.card-body{
+    background-color: rgb(37, 37, 90);  
+    border: 2px white;  
+    color: white;
+}
+.education{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border-color: rgb(23, 165, 222)
+}
+.design{
+    text-align: center;
+}
+.codeing{
+    text-align: center;
+}
+.skills{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    border-color: rgb(23, 165, 222);
+}
+.edu1{
+    background-color: rgb(23, 165, 222);
+}
+.one{
+    background-color: rgb(37, 37, 90);
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.form-container{
+    max-width: 400px;
+    margin: 50px auto;
+    border: 1px solid rgb(23, 165, 222);
+    border-radius: 5px;
+    color: rgb(23, 165, 222);
+}
+.form-group{
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+label{
+    display: block;
+    margin-bottom: 5px;
+    margin-left: 5%;
+}
+input{
+    width: 90%;
+    padding: 8px;
+    margin-top: 5px;
+    margin-left: 5%;
+    box-sizing: border-box;
+}
+.error-message{
+    color: red;
+    margin-top: 5px;
+}
+button{
+    margin-left: 5%;
+    border: none;
+    background-color: rgb(23, 165, 222);
+    color: white;
+    padding: 2%;
+}
+.contact{
+    color: rgb(23, 165, 222);
+}
+.bottom{
+    color: rgb(23, 165, 222);
+    text-align: center;
+}
+.hr{
+    color: rgb(23, 165, 222);;
+}
+.ksv{
+    color: white;
+    background-color: rgb(23, 165, 222);
+}
+.nav-item{
+    margin-left: 10%;
+}
+.ksv1{
+    margin-left: 100%;
+}
+.homee{
+    display: flex;
+}
+
